@@ -5,7 +5,6 @@
  * http://kido0617.github.io/tyrano/2018-03-26-nico-text/
  * ティラノスクリプト ver4.61 で動作確認済み
  * Author: @kido0617
- * ライセンス: 完全に自由にどうぞ。クレジットの表記もいりません。
 */
 
 (function(){
